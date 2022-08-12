@@ -13,3 +13,5 @@ Upload ipykernel to jupyterlab by running `pip install ipykernel` then `python -
 [Video walk through of all installation steps](https://drive.google.com/file/d/1maarUU_fnSiMahSnMYm_gXv6s2a3W26G/view)
 ## Resources
 To uninstall unwanted ipykernel, run `jupyter kernelspec uninstall unwanted-kernel`
+
+This is a fork project
